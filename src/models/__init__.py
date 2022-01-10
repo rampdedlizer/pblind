@@ -1,3 +1,3 @@
 """
-Deep Learning Module for Text Extraction From Image
+Deep Learning Module for Text Extraction 
 """

@@ -1,3 +1,3 @@
 """
-Image Processing Module
+Picture Processing Module
 """

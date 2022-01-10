@@ -1,1 +1,2 @@
-# pblind
+# pblind 
+- Everyone deserves to see.
